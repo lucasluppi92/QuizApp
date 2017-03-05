@@ -1,0 +1,35 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+    <string name="voc">VoC - Voice of Costumer</string>
+    <string name="intro">This survey will take less than 5 (five) minutes of your time :)\nFirst of all, thank you for taking the time to answer this quiz.\nTo start, we would like to know you better.</string>
+    <string name="surge_protector">Surge Protection Equipments</string>
+    <string name="type_name">Type your name here</string>
+    <string name="how_old">How old are you?</string>
+    <string name="less_20">Less than 20</string>
+    <string name="betw_20_25">Between 20 and 25</string>
+    <string name="betw_26_35">Between 26 and 35</string>
+    <string name="betw_36_45">Between 36 and 45</string>
+    <string name="more_45">More than 45</string>
+    <string name="what_equip">What surge protection equipment you use?</string>
+    <string name="line_filter">Line Filter</string>
+    <string name="ups">UPS</string>
+    <string name="none">None</string>
+    <string name="submit">Submit</string>
+    <string name="no_age_selected">You need to select an age group.</string>
+    <!-- Name for the summary. It will be shown in the format of "Name: Amy" where Amy is the user's name. [CHAR LIMIT=NONE] -->
+    <string name="name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <!-- Age group for the summary. It will be shown in the format of "Age group: Between 26 and 35" where Between "26 and 35" is the selected option. [CHAR LIMIT=NONE] -->
+    <string name="age_group">Age group: <xliff:g id="ageMessage" example="Between 26 and 35">%s</xliff:g></string>
+    <string name="use_line_filter">Use Line Filter? </string>
+    <string name="use_ups">Use UPS? </string>
+    <string name="use_none">Use None? </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">What is your Gender?</string>
+    <string name="gender_answer">Gender: </string>
+    <string name="spinner_title">Gender</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
